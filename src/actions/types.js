@@ -1,0 +1,18 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_VIATURAS = 'GET_VIATURAS';
+export const GET_CLIENTES = 'GET_CLIENTES';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+
+export const GET_PESAGENS = 'GET_PESAGENS';
+export const GET_PESAGEM_EM_CURSO = 'GET_PESAGEM_EM_CURSO';
+export const CREATE_PESAGEM = 'CREATE_PESAGEM';
+export const UPDATE_PESAGEM = 'UPDATE_PESAGEM';
+
+export const GET_FAVORITOS = 'GET_FAVORITOS';
+export const CREATE_FAVORITO = 'CREATE_FAVORITO';
+export const GET_LOCAL_CARGA = 'GET_LOCAL_CARGA';
+export const GET_PRODUTO = 'GET_PRODUTO';
+export const GET_LOCAL_DESCARGA = 'GET_LOCAL_DESCARGA';
